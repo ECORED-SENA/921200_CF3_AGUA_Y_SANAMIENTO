@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="751.307" height="382.452" viewBox="0 0 751.307 382.452">
+  <g id="Grupo_16314" data-name="Grupo 16314" transform="translate(-4169.08 -2922.18)">
+    <rect id="Rectángulo_4542" data-name="Rectángulo 4542" width="751.184" height="382.452" rx="19.076" transform="translate(4169.203 2922.18)" fill="#dae1f2"/>
+    <rect id="Rectángulo_4543" data-name="Rectángulo 4543" width="648.357" height="347.985" rx="12.387" transform="translate(4256.969 2937.425)" fill="#fff"/>
+    <text id="Número_de_código_de_la_muestra." data-name="Número de código de la muestra." transform="translate(4302.58 2985.664)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Número de código de la muestra.</tspan></text>
+    <text id="Nombre_de_la_persona_prestadora_para_el_caso_de_los_laboratorios_de_vigilancia_o_los_laboratorios_particulares_que_atienden_varios_clientes." data-name="Nombre de la persona prestadora, para el caso de los laboratorios de vigilancia o los laboratorios particulares que atienden varios clientes." transform="translate(4298.322 3025.132)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">Nombre de la persona prestadora, para el caso de los laboratorios de </tspan><tspan x="0" y="40.6">vigilancia o los laboratorios particulares que atienden varios clientes.</tspan></text>
+    <g id="Grupo_16305" data-name="Grupo 16305">
+      <path id="Trazado_41903" data-name="Trazado 41903" d="M4169.08,2954.019h49.775l28.363,26.85-28.363,27.73H4169.44Z" fill="#0f3384"/>
+      <g id="Grupo_16304" data-name="Grupo 16304">
+        <text id="a." transform="translate(4194.967 2986.438)" fill="#fff" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="0">a.</tspan></text>
+      </g>
+    </g>
+    <g id="Grupo_16307" data-name="Grupo 16307">
+      <path id="Trazado_41904" data-name="Trazado 41904" d="M4169.08,3018.277h49.775l28.363,26.85-28.363,27.73H4169.44Z" fill="#0f3384"/>
+      <g id="Grupo_16306" data-name="Grupo 16306">
+        <text id="b." transform="translate(4194.967 3050.696)" fill="#fff" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="0">b.</tspan></text>
+      </g>
+    </g>
+    <line id="Línea_232" data-name="Línea 232" x2="587.613" transform="translate(4296.387 3013.535)" fill="none" stroke="#4463aa" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Línea_233" data-name="Línea 233" x2="587.613" transform="translate(4296.387 3079.341)" fill="none" stroke="#4463aa" stroke-miterlimit="10" stroke-width="2"/>
+    <text id="Nombre_del_o_los_tomadores_de_muestras." data-name="Nombre del (o los) tomadores de muestras." transform="translate(4298.322 3100.39)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">Nombre del (o los) tomadores de muestras.</tspan></text>
+    <g id="Grupo_16309" data-name="Grupo 16309">
+      <path id="Trazado_41905" data-name="Trazado 41905" d="M4169.08,3082.535h49.775l28.363,26.85-28.363,27.73H4169.44Z" fill="#0f3384"/>
+      <g id="Grupo_16308" data-name="Grupo 16308">
+        <text id="c." transform="translate(4194.967 3114.954)" fill="#fff" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="0">c.</tspan></text>
+      </g>
+    </g>
+    <line id="Línea_234" data-name="Línea 234" x2="587.613" transform="translate(4296.387 3143.599)" fill="none" stroke="#4463aa" stroke-miterlimit="10" stroke-width="2"/>
+    <text id="Número_del_método_de_muestreo." data-name="Número del método de muestreo." transform="translate(4298.322 3165.422)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">Número del método de muestreo.</tspan></text>
+    <g id="Grupo_16311" data-name="Grupo 16311">
+      <path id="Trazado_41906" data-name="Trazado 41906" d="M4169.08,3147.567h49.775l28.363,26.85-28.363,27.73H4169.44Z" fill="#0f3384"/>
+      <g id="Grupo_16310" data-name="Grupo 16310">
+        <text id="d." transform="translate(4194.967 3179.986)" fill="#fff" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="0">d.</tspan></text>
+      </g>
+    </g>
+    <line id="Línea_235" data-name="Línea 235" x2="587.613" transform="translate(4296.387 3208.632)" fill="none" stroke="#4463aa" stroke-miterlimit="10" stroke-width="2"/>
+    <text id="Localización_de_almacenamiento_de_la_muestra." data-name="Localización de almacenamiento de la muestra." transform="translate(4298.322 3229.68)" fill="#00223d" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="19">Localización de almacenamiento de la muestra.</tspan></text>
+    <g id="Grupo_16313" data-name="Grupo 16313">
+      <path id="Trazado_41907" data-name="Trazado 41907" d="M4169.08,3211.825h49.775l28.363,26.85-28.363,27.73H4169.44Z" fill="#0f3384"/>
+      <g id="Grupo_16312" data-name="Grupo 16312">
+        <text id="e." transform="translate(4194.967 3244.244)" fill="#fff" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="0">e.</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

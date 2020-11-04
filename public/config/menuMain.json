@@ -1,0 +1,90 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "presentacion",
+    "title": "1. Presentación",
+    "breadcrumb": ["Inicio","Tema 1"],
+    "path": "pages/1-tema.html"
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "cadena_de_custodia",
+    "title": "2. Cadena de custodia",
+    "breadcrumb": ["Inicio","tema 2"],
+    "path": "pages/2-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "cadena_de_custodia",
+        "title": "2.1 Fase toma de muestras",
+        "anchor": "21"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "cadena_de_custodia",
+        "title": "2.2 Fase de almacenamiento y transporte de muestras de agua",
+        "anchor": "22"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "cadena_de_custodia",
+        "title": "2.3 Fase de entrega de muestras al laboratorio",
+        "anchor": "23"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "cadena_de_custodia",
+        "title": "2.4 Guías técnicas para control de calidad en el muestreo de aguas",
+        "anchor": "24"
+      }
+    ]
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "protocolos_de_laboratorio",
+    "title": "3. Protocolos de laboratorio",
+    "breadcrumb": ["Inicio","tema 3"],
+    "path": "pages/3-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "protocolos_de_laboratorio",
+        "title": "3.1 Manuales de procedimiento de laboratorio",
+        "anchor": "31"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "protocolos_de_laboratorio",
+        "title": "3.2 Formatos de registros de laboratorios",
+        "anchor": "32"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "protocolos_de_laboratorio",
+        "title": "3.3 Control de la calidad en el muestreo",
+        "anchor": "33"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "protocolos_de_laboratorio",
+        "title": "3.4 Riesgos en laboratorio y pictogramas",
+        "anchor": "34"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "protocolos_de_laboratorio",
+        "title": "3.5 Métodos estándar para análisis de aguas en laboratorio",
+        "anchor": "35"
+      }
+    ]
+  }
+]
